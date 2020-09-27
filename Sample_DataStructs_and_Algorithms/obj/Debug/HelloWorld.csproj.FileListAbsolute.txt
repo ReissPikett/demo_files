@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\LENOVO\Documents\Visual Studio 2019\repos\C#_SoftEng_Alg\C# Basics 1\HelloWorld\obj\Debug\HelloWorld.pdb
